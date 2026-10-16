@@ -18,3 +18,6 @@ Berada di Cluster 11 memberikan pengalaman yang sangat menyenangkan dan berharga
 
 Pesan:
 Untuk teman-teman Cluster 11, tetap pertahankan kekompakan, semangat, dan soliditas kita sampai puncaknya di Aesthetic nanti. Jangan sampai ke solid an ini putus setelah rangkaian INTRIVIA selesai. Semoga kita bisa terus berjuang bersama dan saling mendukung selama masa perkuliahan di Teknik Informatika FILKOM UB!
+
+## Harapan Kuliah 
+Selama menempuh pendidikan di Teknik Informatika Universitas Brawijaya, saya berharap dapat mengembangkan pemahaman yang mendalam mengenai ilmu komputer, rekayasa perangkat lunak, serta teknologi berbasis AI dan sistem terdistribusi. Selain mempertahankan prestasi akademik dan meraih IPK yang memuaskan, saya ingin aktif berkontribusi dalam berbagai kompetisi teknologi, proyek riset, dan kegiatan kolaboratif di lingkungan kampus. Lebih dari sekadar akademik, saya berharap masa perkuliahan ini menjadi sarana untuk mengasah soft skill, memperluas jaringan profesional, serta membentuk karakter yang adaptif dan berdampak nyata bagi masyarakat dan industri teknologi.
